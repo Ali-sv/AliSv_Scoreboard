@@ -29,4 +29,16 @@
 1. Download or clone the repository:
 ```bash
    git clone https://github.com/Ali-sv/AliSv_Scoreboard.git
+```
+---
+## 🖼️ Preview | پیش‌نمایش
+
+| Dashboard | Heists |
+|-----------|--------|
+| ![Dashboard](screenshots/dashboard.png) | ![Heists](screenshots/heists.png) |
+
+| Jobs | Bimeh Info |
+|------|-----------|
+| ![Jobs](screenshots/jobs.png) | ![Bimeh](screenshots/bimeh.png) |
+
    
