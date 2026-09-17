@@ -84,5 +84,5 @@ Need help or have questions? Join our Discord server:
 **⭐ If you like this project, please give it a star! ⭐**
 
 </div>
-```
+
 
