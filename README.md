@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 AliSvRP Scoreboard
+# 🎯 AliSv Scoreboard | سیستم نشان دادن تعداد بازیکنان
 
 **A Modern & Feature-Rich Scoreboard for FiveM Roleplay Servers**
 **اسکوربورد مدرن و حرفه‌ای برای سرورهای رول‌پلی فایو ام**
@@ -28,5 +28,5 @@
 
 1. Download or clone the repository:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/AliSvRP-Scoreboard.git
+   git clone https://github.com/Ali-sv/AliSv_Scoreboard.git
    
